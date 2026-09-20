@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+​Ganti DOMAIN-KAMU.com dengan domain asli
+​Sitemap: https://DOMAIN-KAMU.com/sitemap.xml
